@@ -1,9 +1,8 @@
-import './App.css'
 
 function App() {
 
   return (
-    <div>This Debate AI Landing page</div>
+    <div className='text-3xl bg-black text-white w-full h-screen'>This Debate AI Landing page</div>
   )
 }
 
