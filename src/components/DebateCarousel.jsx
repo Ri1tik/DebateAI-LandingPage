@@ -173,7 +173,7 @@ export default function DebateCarousel({ slides: customSlides }) {
               type="button"
               aria-label={`Go to slide ${index + 1}`}
               className={`transition-all duration-300 rounded-full cursor-pointer ${index === selectedIndex
-                  ? 'w-7 h-2 bg-(--brand-orange)]'
+                  ? 'w-7 h-2 bg-(--brand-orange)'
                   : 'w-2 h-2 bg-zinc-600 hover:bg-zinc-400'
                 }`}
             />
