@@ -110,7 +110,7 @@ export default function LandingPage() {
                             }}
                         >
                             <div className="flex items-center gap-4">
-                                <div className="w-12 h-12 rounded-sm flex items-center justify-center bg-zinc-800/60 border border-zinc-700/40 text-zinc-300 group-hover:text-(--brand-orange) group-hover:bg-orange-500/10 group-hover:border-orange-500/20 group-hover:scale-105 transition-all duration-200 shrink-0">
+                                <div className="w-12 h-12 rounded-sm flex items-center justify-center bg-(--surface2) border border-(--border) text-(--text) group-hover:text-(--brand-orange) group-hover:bg-orange-500/10 group-hover:border-orange-500/20 group-hover:scale-105 transition-all duration-200 shrink-0">
                                     <FaLink className="w-4 h-4" />
                                 </div>
                                 <div>
@@ -146,7 +146,7 @@ export default function LandingPage() {
                             }}
                         >
                             <div className="flex items-center gap-4">
-                                <div className="w-12 h-12 rounded-sm flex items-center justify-center bg-zinc-800/60 border border-zinc-700/40 text-zinc-300 group-hover:text-(--brand-orange) group-hover:bg-orange-500/10 group-hover:border-orange-500/20 group-hover:scale-105 transition-all duration-200 shrink-0">
+                                <div className="w-12 h-12 rounded-sm flex items-center justify-center bg-(--surface2) border border-(--border) text-(--text) group-hover:text-(--brand-orange) group-hover:bg-orange-500/10 group-hover:border-orange-500/20 group-hover:scale-105 transition-all duration-200 shrink-0">
                                     <FaServer className="w-4 h-4" />
                                 </div>
                                 <div>
